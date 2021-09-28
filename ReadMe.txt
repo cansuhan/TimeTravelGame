@@ -1,0 +1,1 @@
+Thanks for playing blue team's game, just run gameintro to begin!
